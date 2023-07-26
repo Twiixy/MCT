@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\di461643\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(2,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "gpio_msp432.h": No such file or directory
+  uGUI.cpp
+C:\Users\di461643\source\repos\ConsoleApplication1\ConsoleApplication1\uGUI.h(33,10): fatal error C1083: Datei (Include) kann nicht geöffnet werden: "lcd_interface.h": No such file or directory
+  Code wird generiert...
