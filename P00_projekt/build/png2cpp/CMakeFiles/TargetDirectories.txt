@@ -1,3 +1,0 @@
-C:/Users/di461643/MicroControllTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/png2cpp/CMakeFiles/png2cpp.dir
-C:/Users/di461643/MicroControllTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/png2cpp/CMakeFiles/edit_cache.dir
-C:/Users/di461643/MicroControllTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/png2cpp/CMakeFiles/rebuild_cache.dir

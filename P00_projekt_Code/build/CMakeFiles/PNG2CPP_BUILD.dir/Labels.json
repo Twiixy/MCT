@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/MikrocontrollTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/CMakeFiles/PNG2CPP_BUILD"
+		},
+		{
+			"file" : "E:/MikrocontrollTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/CMakeFiles/PNG2CPP_BUILD.rule"
+		},
+		{
+			"file" : "E:/MikrocontrollTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/CMakeFiles/PNG2CPP_BUILD-complete.rule"
+		},
+		{
+			"file" : "E:/MikrocontrollTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/png2cpp/src/PNG2CPP_BUILD-stamp/PNG2CPP_BUILD-build.rule"
+		},
+		{
+			"file" : "E:/MikrocontrollTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/png2cpp/src/PNG2CPP_BUILD-stamp/PNG2CPP_BUILD-configure.rule"
+		},
+		{
+			"file" : "E:/MikrocontrollTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/png2cpp/src/PNG2CPP_BUILD-stamp/PNG2CPP_BUILD-download.rule"
+		},
+		{
+			"file" : "E:/MikrocontrollTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/png2cpp/src/PNG2CPP_BUILD-stamp/PNG2CPP_BUILD-install.rule"
+		},
+		{
+			"file" : "E:/MikrocontrollTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/png2cpp/src/PNG2CPP_BUILD-stamp/PNG2CPP_BUILD-mkdir.rule"
+		},
+		{
+			"file" : "E:/MikrocontrollTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/png2cpp/src/PNG2CPP_BUILD-stamp/PNG2CPP_BUILD-patch.rule"
+		},
+		{
+			"file" : "E:/MikrocontrollTechnik/YAHAL/examples/msp432-launchpad/P00_projekt/build/png2cpp/src/PNG2CPP_BUILD-stamp/PNG2CPP_BUILD-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PNG2CPP_BUILD"
+		],
+		"name" : "PNG2CPP_BUILD"
+	}
+}
